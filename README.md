@@ -12,7 +12,5 @@ Soy Paola Ruiz, estudiante de Ingeniería de Software, con un firme compromiso h
 ![](https://nirzak-streak-stats.vercel.app/?user=PaolaRuizV&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PaolaRuizV&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PaolaRuizV&theme=cobalt&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
